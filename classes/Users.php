@@ -216,7 +216,6 @@ Class Users extends DBConnection {
 				}
 			}
 		}
-		
 		return  json_encode($resp);
 	}
 	public function delete_client(){
@@ -247,7 +246,6 @@ Class Users extends DBConnection {
 	}
 	
 }
-
 $users = new users();
 $action = !isset($_GET['f']) ? 'none' : strtolower($_GET['f']);
 switch ($action) {
