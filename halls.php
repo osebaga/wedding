@@ -16,7 +16,7 @@
     }
 </style>
 <div class="content py-5">
-    <h3 class="text-center"><b>Our Halls</b></h3>
+    <h3 class="text-center"><b>Our Hall</b></h3>
     <hr class="w-25 border-light">
     <div class="row justify-content-center">
         <div class="col-md-5">
